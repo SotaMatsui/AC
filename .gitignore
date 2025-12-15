@@ -1,6 +1,8 @@
-*
+/**/*
 
-!.gitignore
+!/**/
+!/**/contest.acc.json
+!/**/main.cpp
 
-!/.vscode/
-!/.vscode/**
+!/**/tests/
+!/**/tests/*
